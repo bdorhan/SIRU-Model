@@ -5,6 +5,6 @@ In this notebook, we will use the model developed in the paper written by P. Mag
 
 Data used in the notebook retrieved from [WHO](https://covid19.who.int). Dataset is also provided together with the .ipynb file in this respository.
 
-The notebook is not complete and there are some shortcomings such as problems in implementing the \(\tau(t)\) function into the _odeint_ function from _scipy.integrate_ package.
+The notebook is not complete and there are some shortcomings such as problems in implementing the tau function depending on time t into the _odeint_ function from _scipy.integrate_ package.
 
 If you are having problems in opening the .ipynb file via GitHub, you can use [this](https://nbviewer.jupyter.org).
